@@ -14,7 +14,8 @@
             {
                 "id": "121",
                 "name": "Tata Play Fitness",
-                "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/manifest.mpd"
+                "manifest_url": "
+http://103.89.248.14:8082/1LIVE/tracks-v1a1/mono.m3u8?token=c5cf0f7f6e02475243a161d3f51a4c86c75aafae-1527146475aeb1c076018e5737c0dbe4-1720426270-1720415470"
             },
             {
                 "id": "618",
